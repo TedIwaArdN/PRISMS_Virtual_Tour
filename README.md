@@ -1,2 +1,2 @@
-# PRISMS_Virtual_Tour
- This is the first project of PRIS_CREATE team, which is a PRISMS campus virtual tour game.
+# PRISMS Virtual Tour
+First project of the PRIS_CREATE team, a PRISMS campus virtual tour game.
