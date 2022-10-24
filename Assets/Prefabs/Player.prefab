@@ -113,6 +113,7 @@ MonoBehaviour:
   movingSpeed: 5
   horizontalInput: 0
   verticalInput: 0
+  jumpForce: 5
 --- !u!54 &317231697677271650
 Rigidbody:
   m_ObjectHideFlags: 0

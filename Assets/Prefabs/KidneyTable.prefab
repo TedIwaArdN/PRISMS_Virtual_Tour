@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 612887938045047293}
   m_Layer: 0
   m_Name: Cylinder
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -156,7 +156,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 524e532185d7ffd46958bcb3bc9e9365, type: 2}
+  - {fileID: 2100000, guid: aaadb297e46495a44a8876e5486f016d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -252,7 +252,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 524e532185d7ffd46958bcb3bc9e9365, type: 2}
+  - {fileID: 2100000, guid: aaadb297e46495a44a8876e5486f016d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -302,7 +302,7 @@ GameObject:
   - component: {fileID: 2486112095696348595}
   m_Layer: 0
   m_Name: Board
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -443,7 +443,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 524e532185d7ffd46958bcb3bc9e9365, type: 2}
+  - {fileID: 2100000, guid: aaadb297e46495a44a8876e5486f016d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -493,7 +493,7 @@ GameObject:
   - component: {fileID: 8934621291590721242}
   m_Layer: 0
   m_Name: Cylinder (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -689,7 +689,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 524e532185d7ffd46958bcb3bc9e9365, type: 2}
+  - {fileID: 2100000, guid: aaadb297e46495a44a8876e5486f016d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
